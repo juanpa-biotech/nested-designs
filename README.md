@@ -6,9 +6,9 @@ This is the repository for the post R Tutorial: Analysis of results of a nested 
 
 A brief description of each file:
 
-* data_plot.jpeg: final plot for the visualization of results from a nested design of experiments.
-* data_simulation.R: an R script with the code for simulation of mice_data.csv. This is how I make the data for the post.
-* mice_data.csv: data frame with treatments and response variable (expression levels).
+* `data_plot.jpeg`: final plot for the visualization of results from a nested design of experiments.
+* `data_simulation.R`: an R script with the code for simulation of mice_data.csv. This is how I make the data for the post.
+* `mice_data.csv`: data frame with treatments and response variable (expression levels).
 
 Thanks a lot for read my post :)
 
